@@ -1,0 +1,6 @@
+{
+  "M1": {"name": "Margherita Pizza", "price": 250},
+  "M2": {"name": "Veg Burger", "price": 180},
+  "M3": {"name": "Pasta Alfredo", "price": 220},
+  "M4": {"name": "Cold Coffee", "price": 120}
+}
